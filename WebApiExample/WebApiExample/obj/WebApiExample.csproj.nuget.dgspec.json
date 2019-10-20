@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alan271265\\source\\repos\\WebApiExample\\WebApiExample\\WebApiExample.csproj": {}
+    "C:\\Users\\Alex\\source\\repos\\DotnetPractice\\WebApiExample\\WebApiExample\\WebApiExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alan271265\\source\\repos\\WebApiExample\\WebApiExample\\WebApiExample.csproj": {
+    "C:\\Users\\Alex\\source\\repos\\DotnetPractice\\WebApiExample\\WebApiExample\\WebApiExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alan271265\\source\\repos\\WebApiExample\\WebApiExample\\WebApiExample.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\DotnetPractice\\WebApiExample\\WebApiExample\\WebApiExample.csproj",
         "projectName": "WebApiExample",
-        "projectPath": "C:\\Users\\alan271265\\source\\repos\\WebApiExample\\WebApiExample\\WebApiExample.csproj",
-        "packagesPath": "C:\\Users\\alan271265\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alan271265\\source\\repos\\WebApiExample\\WebApiExample\\obj\\",
+        "projectPath": "C:\\Users\\Alex\\source\\repos\\DotnetPractice\\WebApiExample\\WebApiExample\\WebApiExample.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex\\source\\repos\\DotnetPractice\\WebApiExample\\WebApiExample\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\alan271265\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"

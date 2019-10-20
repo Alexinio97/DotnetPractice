@@ -9,7 +9,7 @@ using WebApiExample.Models;
 
 namespace WebApiExample.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/TodoItems")]
     [ApiController]
     public class TodoItemsController : ControllerBase
     {
